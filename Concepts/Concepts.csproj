@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="OverrideConcept.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TryCatch.cs" />
+    <Compile Include="VirOve.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
